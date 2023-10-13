@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">My Album Collection</string>
+
+    <string name="placeholer">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget placerat diam. Ut mattis fringilla facilisis. Donec non est ipsum.</string>
+    <string name="placeholder_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus tristique lectus a porta. Duis suscipit sapien vel orci finibus, vestibulum tristique nibh cursus. Sed eleifend felis nibh, sed hendrerit justo sagittis quis. Vestibulum sollicitudin, justo at tristique congue, diam quam ornare tortor, ac molestie massa quam et enim. Aliquam efficitur imperdiet neque, in fringilla tellus bibendum vel. Donec volutpat aliquet augue. Duis eros urna, tempus sed finibus in, euismod vitae purus. Aliquam eleifend venenatis nunc, sed maximus sapien dictum sed. Suspendisse leo est, fermentum sit amet tortor vel, condimentum lobortis eros. Duis libero nisl, consectetur posuere eleifend ac, consequat vel justo. Praesent eu feugiat tortor. Vestibulum aliquet justo nunc, id hendrerit dolor feugiat vel. Sed et magna rutrum, volutpat augue et, imperdiet sapien. Etiam dignissim mi quis orci facilisis, at varius erat efficitur. Cras quis enim vitae sem rutrum malesuada.\n\nDonec vitae mauris lobortis, feugiat risus ac, laoreet nibh. Fusce sagittis tincidunt nibh, ac convallis arcu semper sed. Nulla facilisi. Nulla auctor pretium facilisis. Pellentesque mollis in lectus non pharetra. Proin convallis enim non fermentum placerat. Nunc vel magna vel nisl lobortis ultricies eget sed ex. In id pharetra erat. Duis fringilla, justo id hendrerit finibus, nisi lorem laoreet dolor, vitae ornare tortor sapien quis lacus. Nullam fringilla eget metus quis iaculis. Etiam posuere et ligula vel mollis. Phasellus blandit sem eget consectetur viverra.</string>
+
+    <string name="albums_name">Nama Album</string>
+    <string name="description">Deskripsi</string>
+    <string name="track_list">Track List</string>
+    <string name="artist_info">Artist Info</string>
+    <string name="artist_name">Nama Artist</string>
+
+    <string name="about">About Page</string>
+    <string name="myName">Nabil Falih Khairullah</string>
+    <string name="myEmail">falih.khairullah@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Elephant Gym - Dreams</item>
+        <item>John OFA Rhee - bleeding in sunset blvd.</item>
+        <item>Wave to Earth - Summer flows 0.02</item>
+        <item>DDBY - Cafe de Touhou</item>
+        <item>ZUTOMAYO - Jinkougaku</item>
+        <item>The All-American Rejects - Move Along</item>
+        <item>Masego - Lady Lady</item>
+        <item>Frank Ocean - Blonde</item>
+        <item>Anderson .Paak - Malibu</item>
+        <item>Masayoshi Takanaka - Brazillian Skies</item>
+        <item>Ryuichi Sakamoto - 12</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>A mysterious object is revealed; the drum sound of the rite arouses; flares are blazing; the soul slides through water’s surface; the breath lights up the air; the body as a sacrifice, I hear myself, in this dream.\n\n The 12 songs that constitute Dreams, the third full-length from the Taiwanese trio Elephant Gym, explore the deep spacetime continuum that consciousness cannot capture. Beyond the trio’s staple instrumentation of guitar, bass, and drumset, Dreams blends in wind instruments, traditional drums, and Taiwanese narrative. Through collaboration with Hakka singer-songwriter Lin Sheng Xiang and pop musician 9m88, notable for their accomplishments in jazz, soul, and R&amp;B, Dreams is a sweeping narrative about a fantastical dream that crosses the boundary. After pressing play, please do close your eyes, and enjoy the dream.</item>
+        <item>John’s album [ bleeding in sunset blvd. ] invites listeners to share in the last two years of his intimate journey. Having spent most of his early adulthood in Seoul, John sought inspiration and headed back home to Los Angeles to work on his next studio album.</item>
+        <item>the sea speaks in waves\n\nWhen he\'s in a good mood and when he\'s angry,\nWhen we are depressed, we learn before we are born.\nin shape similar to his mind or speech\nWe move slowly through life and repeat stopping.\nIf that state persists, you are already in the middle of nowhere, or\nAlas, it tends to sink deep into the bottom.\nLoneliness becomes the default and fills your lungs\n\nTo get from the bottom to the surface\nTo flow from the center to the edge and face each other\nswimming hard\nborn of water to land\nTo meet you on the shore and jump together again\n\'Cause we\'re dying even when we don\'t intend to die\nlove to die\n\n\'It is love that gently sustains us so that we do not fail to jump with the flow\'\n\nHow many bubbles had to be made to reach love\nSurrendering oneself to the swaying mind\nwant it or not\nIn fact, there is no need for bravery or bravery here.\nIf you just hold your breath and love me\nI\'m sure you\'ll get to where you want to be\n\nI don\'t know if that\'s why, but Wave Tours\nEven if I swim like crazy on the summer sea\nI\'m just dancing with a shameless face\nI don\'t have much time, but it\'s okay\nSaid I\'d give you all seasons and reasons\nWith his salty body, he pushes us to the beach for a while.\n\nIf you listen to all their waves\nit\'s love\n</item>
+        <item>Feel like a cafe while relaxing at home . A total of 11 tracks/approximately 47 minutes arranged from the songs of "Touhou Youyoumu" in the image of an airport cafe lounge .\n\nContains many warm songs centered around acoustic tones.\n\nPlease enjoy while drinking coffee.</item>
+        <item>The 3rd Full ALBUM "沈香学" (reading: Jinkougaku), the first album in about two and a half years\n\nIncluding "Time Left", the ending theme song for the anime "Chainsaw Man", the 2022 Spotify Holiday TVCM song "Kira Killer (feat. Mori Calliope)", and songs such as "Inside Joke" and "Mirror Tune", which are also representative songs in live performances, 13 songs in total.</item>
+        <item>"Move Along" is the second studio album from The All-American Rejects. Featuring hits like the title track, "It Ends Tonight," and "Dirty Little Secret," this was the album that propelled the band into becoming a household name, achieving RIAA-certified double platinum status, and packing out arenas at the height of a three-year tour cycle that rarely took a break.\n\n15+ years later, Dark Operative is grateful to be keeping this album in print for all listeners, whether they just got into the band or have been there since day one.</item>
+        <item>Lady Lady is the debut studio album by Jamaican-American singer Masego. Pitchfork gave the album a 7.3 out of 10 saying, "His music is sophisticated, steeped in 1980s quiet-storm R&amp;B with hints of smooth jazz along the fringes," and "Lady Lady is a grand coming-of-age record that displays the playful and reflective halves of Masego, illuminating his versatile nature with the promise of more to come."</item>
+        <item>The album is titled Blonde (stylised as Blond) by African American artist Frank Ocean, released in 2016 by Blonded (Beats 1 radio show and label company, conducted by Ocean).\n\nThe album was issued in two different versions: the physical version in magazines (like Boys Don’t Cry, Ocean’s zine magazine) given away in pop-up stores around the country; and the digital one on iTunes (which is the version in review).\n\nIn this project, he exhibits all his vulnerability through true life episodes and pop culture references, addressing various topics such as love, relationships, their repercussions and posthumous learning, self-esteem/hatred, drug addiction, mortality/immortality, mental health and depression, creating a deeply personal work, which for one reason or another, makes us feel what he experienced such is the rawness of it.</item>
+        <item>This is a vinyl LP pressing of Malibu (2017 EU Reissue) by Anderson Paak. The American rapper originally released their second studio album on January 15, 2016, via ArtClub International. The album is described as the beginning of his potential commercial breakthrough, following his prominent role in Dr. Dre\'s album Compton (2015). Malibu received a Grammy nomination for Best Urban Contemporary Album.</item>
+        <item>Brasilian Skies is the fourth studio album by Japanese jazz fusion guitarist Masayoshi Takanaka, released via Kitty Records on July 21, 1978. The album includes several songs recorded in Brazil with Brazilian musicians. Notable tracks on the record include, “Star Wars Samba”, a samba arrangement of Star Wars and the fan-favorite “Disco B”. Haruko Kuwana, Ryuichi Sakamoto, Jeff Porcaro (TOTO) and Paulinho da Costa are among the many participants on the album.</item>
+        <item>Milan Records is proud to release “12,” an intimate collection of twelve compositions by Ryuichi Sakamoto, written and recorded in Tokyo during his fight with cancer throughout 2021-2022. Each numbered title refers to its recording date. About the album, Sakamoto says: ”….after I finally “came home” to my new temporary housing after a big operation, I found myself reaching for the synthesizer. I had no intention of composing something; I just wanted to be showered in sound. I’ll probably continue to keep this kind of “diary.”</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://s9.limitedrun.com/images/1570683/v600_____-__-1000x1000.jpg</item>
+        <item>https://contents.sixshop.com/thumbnails/uploadedFiles/152619/product/image_1625634921269_2500.jpg</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273c091fe6573f073f2e31b249f</item>
+        <item>https://ddby.jp/wp-content/uploads/2022/01/cafe_01_560_420.jpg</item>
+        <item>https://reni-ec-pro.s3-ap-northeast-1.amazonaws.com/product/UPCH-20651/a46cc47973e969cb8d80e6dd3286c0d3ecb723e807bd4a5cba3c5d6bd32a4244.jpg?1693989785</item>
+        <item>https://f4.bcbits.com/img/a3534454098_16.jpg</item>
+        <item>https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/48/b3/3548b3c7-92bd-ea54-1e09-47a1f6f25b01/00842812109249.rgb.jpg/1200x1200bf-60.jpg</item>
+        <item>https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6fATia_4ODR-7P3VEGofYA.jpeg</item>
+        <item>https://cdn.shopify.com/s/files/1/0117/8740/3323/files/products_2FFLS-VINH-BD-0885150342237_2FFLS-VINH-BD-0885150342237_1682497669770.jpg?v=1692070893</item>
+        <item>https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/30837/image/large_550_tmp_2F1666817952140-ivyjsx67z0c-a8f355977133f7e724d2e61be9587451_2F_C3_AC_C3_A9_C3_86_C3_A5_C3_89_E2_94_82_C3_AF_60500image0.jpg</item>
+        <item>https://m.media-amazon.com/images/I/71unPscLQtL._SY355_.jpg</item>
+    </string-array>
+
+    <string-array name="data_track">
+        <item>1. Anima 02:40\n2. Go Through the Night 03:49\n3. Shadow (feat. 9m88) 03:45\n4. Witches 03:51\n5. Dreamlike 03:36\n6. Wings (feat. Kaohsiung City Wind Orchestra) 03:05\n7. Happy but Sad 01:59\n8. Deities\' Party (feat. Chio Tian Folk Drums and Art Troupe) 03:05\n9. Dear Humans (JP Version) 03:42\n10. Gaze at Blue (Album Version) 03:54\n11. Fable 02:57\n12. Dream of You (feat. Lin Sheng Xiang) 04:09</item>
+        <item>1. FRIDAY NIGHTS (with bottle gods) 04:20\n2. DAYDREAM 03:43\n3. STAY 03:01\n4. NO THING 03:11\n5. SHOULD I 04:01\n6. CRAZY - Studio Live Ver. 03:30\n7. BETTER THAN HE CAN 03:27\n8. BABY BABY 02:45\n9. GONE BY THE MORNING 02:09\n10. BLAME 03:43\n11. WAITING 04:14\n12. SLUMBER 04:26</item>
+        <item>1. summer flows 00:37\n2. ride 03:49\n3. seasons 04:16\n4. ocean floor 04:02\n5. surf (album ver.) 03:49</item>
+        <item>1. もし、空が晴れるなら 04:10\n2. faraway country 04:56\n3. Jam from memories of winter 04:08\n4. Perfect Day Dream 04:17\n5. 暖色系アリス 03:32\n6. 風の都 03:17\n7. 無何有の郷 (KiRa Remix) 04:08\n8. NaTuLaL AGeNcY 03:51\n9. Below Between Beyond 04:56\n10. Sky Garden 05:09\n11. Lotus 05:31</item>
+        <item>1. Hanaichi Monnme 04:11\n2. Time Left 03:51\n3. Neko Reset 04:07\n4. Kira Killer(feat. Mori Calliope) 04:14\n5. Nareai Serve 03:58\n6. Inside Joke 04:15\n7. Summer Slack 03:56\n8. QUILT 04:15\n9. Intrusion 04:21\n10. Stay Foolish 04:15\n11. Blush 04:19\n12. MIRROR TUNE 04:10\n13. Superficial Me 04:08</item>
+        <item>1. Dirty Little Secret 03:13\n2. Stab My Back 03:09\n3. Move Along 03:58\n4. It Ends Tonight 04:04\n5. Change Your Mind 03:40\n6. Night Drive 03:23\n7. 11:11 Pm 03:04\n8. Dance Inside 04:00\n9. Top of the World 03:23\n10. Straightjacket Feeling 03:37\n11. I\'m Waiting 03:34\n12. Can\'t Take It 02:52</item>
+        <item>1. Silk… 01:13\n2. I Had a Vision 03:12\n3. Lavish Lullaby 03:17\n4. Old Age 02:21\n5. Prone 03:06\n6. Sugar Walls 02:03\n7. Queen Tings 03:08\n8. Just a Little (feat. De\'Wayne Jackson) 04:06\n9. Shawty Fishin\' (Blame The Net) 03:32\n10. Lady Lady 02:34\n11. 24 Hr. Relationship 02:24\n12. Black Love 03:42\n13. Tadow 05:01\n14. Tadow (Extended Version) 08:05</item>
+        <item>1. Nikes 05:14\n2. Ivy 04:09\n3. Pink + White 03:04\n4. Be Yourself 01:26\n5. Solo 04:17\n6. Skyline To 03:04\n7. Self Control 04:09\n8. Good Guy 01:06\n9. Nights 05:07\n10. Solo (Reprise) 01:18\n11. Pretty Sweet 02:38\n12. Facebook Story 01:08\n13. Close To You 01:25\n14. White Ferrari 04:08\n15. Seigfried 05:34\n16. Godspeed 02:57\n17. Futura Free 09:24</item>
+        <item>1. The Bird 03:37\n2. Heart Don\'t Stand a Chance 05:12\n3. The Waters (feat. BJ the Chicago Kid) 02:54\n4. The Season / Carry Me 05:28\n5. Put Me Thru 02:40\n6. Am I Wrong (feat. ScHoolboy Q) 04:13\n7. Without You (feat. Rapsody) 03:19\n8. Parking Lot 03:54\n9. Lite Weight (feat. The Free Nationals United Fellowship Choir) 03:26\n10. Room in Here (feat. The Game &amp; Sonyae Elise) 03:59\n11. Water Fall (Interluuube) 01:58\n12. Your Prime 03:57\n13. Come Down 02:49\n14. Silicon Valley 04:04\n15. Celebrate 03:46\n16. The Dreamer (feat. Talib Kweli &amp; Timan Family Choir) 05:39</item>
+        <item>1. BELEZA PULA 07:53\n2. BRASILIAN SKIES 05:53\n3. NIGHTS 04:54\n4. I REMEMBER CLIFFORD 05:25\n5. STAR WARS SAMBA 03:45\n6. DISCO "B" 06:39\n7. FUNKY HOLO HOLO BIRD 06:15\n8. 伊豆甘夏納豆売り 06:49</item>
+        <item>1. 20210310 06:54\n2. 20211130 05:23\n3. 20211201 05:33\n4. 20220123 08:41\n5. 20220202 06:23\n6. 20220207 07:02\n7. 20220214 09:10\n8. 20220302 - sarabande 03:11\n9. 20220302\n10. 20220307 02:53\n11. 20220404 02:27\n12. 20220304 01:09</item>
+    </string-array>
+    
+    <string-array name="data_artist_name">
+        <item>Elephant Gym</item>
+        <item>John OFA Rhee</item>
+        <item>Wave to Earth</item>
+        <item>DDBY</item>
+        <item>ZUTOMAYO</item>
+        <item>The All-American Rejects</item>
+        <item>Masego</item>
+        <item>Frank Occean</item>
+        <item>Anderson .Paak</item>
+        <item>Masayoshi Tanaka</item>
+        <item>Ryuichi Sakamoto</item>
+    </string-array>
+
+    <string-array name="data_artist_photo">
+        <item>https://i.scdn.co/image/ab6761610000e5eba5cb79804cd5a89f315ec37b</item>
+        <item>https://i.scdn.co/image/241cd159fe035abed5d081c54c6766b31669ee5f</item>
+        <item>https://i.scdn.co/image/ab6761610000e5ebc3c28df50abf70a11d9f8063</item>
+        <item>https://media.vgm.io/orgs/37/273/273-1594412177.png</item>
+        <item>https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e</item>
+        <item>https://dynamicmedia.livenationinternational.com/Media/q/s/l/87a7602a-ca7d-4680-bd53-ed1eed00cf07.jpg</item>
+        <item>https://media.gq-magazine.co.uk/photos/5d13a721533a2316f4c634dc/16:9/w_2560%2Cc_limit/masego-hp-gq-22jan19_b.jpg</item>
+        <item>https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab</item>
+        <item>https://trhsnews.com/wp-content/uploads/2021/04/anderson_paak_israel_ramos.jpg</item>
+        <item>https://i.ytimg.com/vi/hUHrEFiktKI/maxresdefault.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ryuichi_Sakamoto_side.jpg/800px-Ryuichi_Sakamoto_side.jpg</item>
+    </string-array>
+
+    <string-array name="data_artist_desc">
+        <item>Elephant Gym (Chinese: 大象體操) is a math rock band from Kaohsiung, Taiwan, founded in February 2012. The group consists of siblings KT Chang (bass) and Tell Chang (guitar), and drummer Chia-Chin Tu. The word \"elephant\" in the band name symbolizes their bass-driven melodies, and \"gym\" refers to their agile and irregular rhythms</item>
+        <item>Born in Seoul but finding roots in the American West Coast, John Rhee owes his distinct soulful sound to America\’s cultural hotpot that is Los Angeles. It is in Los Angeles where Rhee picked up the guitar at the age of 11, eventually going off to further his musical studies at Berklee College of Music. Soon after, he was offered a coveted spot in the Korean musical talent show Superstar K where he placed in the top eight. After finding superstardom via reality tv, Rhee co-founded an artist creative crew, Kunstbloom, and collaborated with high-profile artists such as PRIMARY, Sam Ock, Stella Jang, and Kim Min-seok of Melomance. Rhee recently released his first single \“WAITING\” under his new label \'La Bosé\' and is set to release an album in mid 2021.</item>
+        <item>Based in Seoul, South Korea, \'Wave to Earth\' is a three-member band consisting of singer-songwriter Daniel Kim, drummer Dong Kyu Shin, and bassist John Cha. \'Wave to Earth\' produces indie pop with a lo-fi sound based on jazz drumming, creating a unique sense of the seasons and a dreamy atmosphere in the music. The name \'Wave to Earth\' reveals the band\'s desire to \"become the new wave\" and expand its own universe across the world.</item>
+        <item>DDBY is a large doujin circle specializing in making Easy Listening and Jazz original and touhou music. Often times their albums consist of tracks each composed or arranged by a different person.</item>
+        <item>Zutto Mayonaka De Iinoni., stylized as ZUTOMAYO, is a Japanese rock group that debuted in 2018. Secretive by nature, the group has never released a full member list, crediting different people for music, arrangements, and music video production each time. The only member reoccurring in all of the group\'s output is the vocalist, an unidentified woman named \"ACA-Ne\".</item>
+        <item>The All-American Rejects are an American rock band from Stillwater, Oklahoma, formed in 1999. The band consists of lead vocalist and bassist Tyson Ritter, lead guitarist and backing vocalist Nick Wheeler, rhythm guitarist and backing vocalist Mike Kennerty, and drummer Chris Gaylor. Wheeler and Ritter serve as the band\'s songwriters; Wheeler is the primary composer and Ritter is the primary lyricist. Although Kennerty and Gaylor are not founding members, they have appeared in all of the band\'s music videos and on all studio releases except for the band\'s self-titled debut.</item>
+        <item>Micah Davis, known professionally as Masego (mə-SE-go), is a Jamaican-American musician and singer known for incorporating the saxophone into his music.</item>
+        <item>Christopher Francis Ocean is an American singer, songwriter, and rapper. His works are noted by music critics for featuring avant-garde styles and introspective, elliptical lyrics. Ocean has won two Grammy Awards and a Brit Award for International Male Solo Artist among other accolades, and his two studio albums have been listed on Rolling Stone\'s 500 Greatest Albums of All Time (2020).</item>
+        <item>Brandon Paak Anderson, better known by his stage name Anderson .Paak (/pæk, pɑːk/), is an American rapper, singer, songwriter, record producer, and drummer.</item>
+        <item>Masayoshi Takanaka (Japanese: 高中 正義, Hepburn: Takanaka Masayoshi) is a Japanese guitarist, composer, and producer. Takanaka\'s music was influential in the city pop genre of the late 1970s and 1980s</item>
+        <item>Ryuichi Sakamoto (Japanese: 坂本 龍一, Hepburn: Sakamoto Ryūichi) was a Japanese composer, pianist, record producer, and actor who pursued a diverse range of styles as a solo artist and as a member of Yellow Magic Orchestra (YMO). With his bandmates Haruomi Hosono and Yukihiro Takahashi, Sakamoto influenced and pioneered a number of electronic music genres.</item>
+    </string-array>
+
+</resources>
